@@ -1,4 +1,4 @@
-# PFGruppo
+# PFHuancaAroni
 
 Este proyecto corresponde a la entrega del trabajo final del curso de Angular de Coderhouse
 Se trabaja con json-server
